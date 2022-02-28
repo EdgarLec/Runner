@@ -1,0 +1,14 @@
+Exemple:
+    ./my_runner map/map1
+
+Interactions:
+    space (in game) = jump
+    x = Quit
+    r = restart
+    [escape] = pause
+    o (in menu) = change skin
+    Click on “start txt” = start with the map in argument
+    Click on “Procedural” = start with an infinite map
+
+If you touch a light you win a point in the score.
+If you have a sword you can kill one enemy and you win a point in the score.
